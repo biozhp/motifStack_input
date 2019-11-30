@@ -1,4 +1,6 @@
 #!/bin/bash
+# Author:Peng Zhao
+# Email: pengzhao@nwafu.edu.cn
 inf=$1
 sample=$2
 ouf=$3
